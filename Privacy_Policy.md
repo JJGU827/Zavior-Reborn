@@ -105,4 +105,4 @@ For privacy questions or data deletion requests, contact:
 
 **Developer:** Jay
 **Email:** jay27beta@gmail.com
-**GitHub:** [GitHub Repository URL]
+**GitHub:** https://github.com/JJGU827/Zavior-Reborn/tree/main
