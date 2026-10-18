@@ -75,4 +75,4 @@ For questions, concerns, or reports of misuse, contact:
 
 **Developer:** Jay 
 **Email:** jay27beta@gmail.com
-**GitHub:** [GitHub Repository URL]
+**GitHub:** https://github.com/JJGU827/Zavior-Reborn/tree/main
