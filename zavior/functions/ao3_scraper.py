@@ -187,7 +187,7 @@ async def scrape_ao3(url):
     try:
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(
-                headless=True
+                headless=False
             )
 
             try:
